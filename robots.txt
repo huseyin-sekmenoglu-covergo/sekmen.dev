@@ -1,0 +1,5 @@
+# XML Sitemaps
+Sitemap: https://sekmen.dev/sitemap.xml
+
+User-agent: *
+Allow: /
