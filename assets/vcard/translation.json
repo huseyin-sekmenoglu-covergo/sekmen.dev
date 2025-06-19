@@ -1,0 +1,922 @@
+{
+  "app": {
+    "app_store": "App Store",
+    "available": "Available at",
+    "base": "Health & Wellness App",
+    "description": "Track your meals and stay on top of your nutrition goals with the Nourish app",
+    "download": "Download on the",
+    "get": "Get it on",
+    "google_play": "Google Play",
+    "header": "Nourish"
+  },
+  "bushiness": {
+    "about_company": "About the Company",
+    "about_company_text": "Experience a slice of Paris in the heart of New York with our freshly baked croissants, baguettes, and pastries at our authentic boulangerie. Bon appétit!",
+    "actions": "Actions",
+    "address": "Address",
+    "button": "View Menu",
+    "call": "Call",
+    "cancel": "Cancel",
+    "closed": "Closed",
+    "company": "Boulangerie Pâtissier",
+    "contact": "Contact",
+    "email": "Email",
+    "facebook": "Facebook",
+    "facilities": "Facilities",
+    "friday": "Friday",
+    "google": "Google",
+    "instagram": "Instagram",
+    "linkedin": "Linkedin",
+    "location": "345 Park Avenue, New York, 10154",
+    "location_1": "345 Park Avenue, New York, 10154",
+    "location_2": "NY, United States",
+    "monday": "Monday",
+    "name": "Name",
+    "name_text": "Boulangerie Pâtissier YZ",
+    "open_hours": "Open hours",
+    "phone": "Phone",
+    "saturday": "Saturday",
+    "share": "Share",
+    "show_on": "Show on Map",
+    "social_network": "Our Social Networks",
+    "subtitle": "Freshly baked happiness every day",
+    "sunday": "Sunday",
+    "thursday": "Thursday",
+    "tikTok": "TikTok",
+    "title": "Boulangerie Pâtissier",
+    "tuesday": "Tuesday",
+    "Website": "Website",
+    "website": "Website",
+    "wednesday": "Wednesday"
+  },
+  "com_contact": {
+    "contact_email": "Email",
+    "contact_location": "Location",
+    "contact_name": "Name",
+    "contact_phone": "Phone",
+    "contact_website": "Website",
+    "title": "Contact"
+  },
+  "coupon": {
+    "company": "Video Games Store",
+    "conditionParagraph": "They include topics such as acceptable use, restricted behavior and limitations of liability.",
+    "couponHeader": "Coupon code",
+    "offerButton": "Get Coupon",
+    "offerDescription": "Available on all our product for a limited time only!",
+    "salesBadge": "25% OFF",
+    "seeLocation": "See Location",
+    "termsParagraph": "A Terms and Conditions agreement is where you let the public know the terms, rules and guidelines for using your website or mobile app.",
+    "termsTitle": "Terms and Conditions",
+    "validDate": "Valid until Aug 19, 2023",
+    "validUntil": "Valid until",
+    "webButton": "Our website"
+  },
+  "deactivatePage": {
+    "des_1": "If you are the owner of this QR code,",
+    "des_2": "to reactivate it.",
+    "description_2": "click {here} to reactivate it.",
+    "inactive_body": "My QR code needs to be reactivated. I was instructed to contact support.",
+    "inactive_desc": " If you are the owner of this QR code,",
+    "inactive_desc_2": "Please",
+    "inactive_desc_3": " contact support",
+    "inactive_description_2": "Please {contact support} to reactivate it.",
+    "inactive_subject": "Deactivated QR Code ID",
+    "login_btn": "log in",
+    "pageTitle": "This QR code has been deactivated for some reason.",
+    "title": "Scanned Page | Deactivated"
+  },
+  "defaultPage": {
+    "contact_us": "Contact Us",
+    "create_qr_btn": "Create QR Code",
+    "footer_text_1": "© Online QR Generator All rights reserved",
+    "footer_text_2": "‘QR Code’ is a trademark of DENSO WAVE INCORPORATED ",
+    "image_title": "Create, Manage and Track your QR Codes",
+    "para_1": "scanned.page is owned by Online QR Generator.com. It is used to link dynamic QR codes to any website or landing page. Businesses and individuals use Online QR Generator and scanned.page to gather feedback, improve their products or services, increase customer engagement with images or videos, or even promote their business via events and coupons",
+    "para_2": "In less than 5 minutes, build your customizable and fully trackable QR codes. Unlock advanced insights, implement your branding, and make updates to your QR codes at any time.",
+    "privacy_text": "Privacy Policy",
+    "qr_card_text": "A QR Code for Every Need",
+    "report_abuse": "Report Abuse",
+    "terms_text": "Terms & Conditions",
+    "title": "What is  scanned.page?"
+  },
+  "email": {
+    "contact_name": "Patrick Sanders",
+    "description": "Reach out to us! Contact our sales team for a quote or ask a question to our support team.",
+    "list_1": "Contact sales",
+    "list_2": "Ask us any questions",
+    "title": "Green Life Architect"
+  },
+  "event": {
+    "about_description": "Dive into the future of tech at our exciting conference! Enjoy insightful sessions and entertaining showcases for valuable learning and unforgettable experiences.",
+    "about_title": "Event Details",
+    "add_to_calander_btn": "Add to Calendar",
+    "address": "49 Gower Street, London, WC1F 2FA, <br>United Kingdom",
+    "address_show_map_btn": "Show on Map",
+    "address_title": "Address",
+    "contact_name": "George Birmingham",
+    "date": "Date",
+    "description": "Join us for an innovative conference combining insightful learning and entertainment.",
+    "end": "End",
+    "end_date": "Saturday, May 9th",
+    "end_time": "5:00 pm",
+    "facilities": "Facilities",
+    "start": "Start",
+    "start_date": "Saturday, May 9th",
+    "start_time": "9:00 am",
+    "title": "Quantum Tech Conference",
+    "view_more_btn": "View More"
+  },
+  "facebook": {
+    "button": "Go to our Facebook page",
+    "description": "This is Best UI/ UX designer & developer group community, don't hesitate post requests for help on design themes.",
+    "like": "Like",
+    "title": "Designer's world (Ui/Ux)"
+  },
+  "global": {
+    "closed": "Closed",
+    "error": {
+      "err_500": "500 Internal Server Error!",
+      "no_internet": "No Internet Connection!",
+      "wrong": "Something Went Wrong!"
+    },
+    "open_now": "Open now",
+    "password": {
+      "enter_btn": "Enter",
+      "incorrect_pass": "Incorrect password.",
+      "label": "Password",
+      "required_pass": "Password required",
+      "title": "If you want to access this qr you must enter its corresponding password."
+    },
+    "social_network_title": "Follow me on",
+    "step1_default": "Select a type of QR code on the left"
+  },
+  "images": {
+    "headerDescription": "Capturing life's moments, one snapshot at a time. Join me!",
+    "headerTitle": "My Pictures",
+    "viewMoreButton": "View More"
+  },
+  "instagram": {
+    "and": "and",
+    "description": "Let yourself be tempted by the sweet symphony of flavors from the Twin Treats bakery 🍪 🍰",
+    "follow": "Follow",
+    "followed": "Followed by",
+    "followers": "Followers",
+    "following": "Following",
+    "message": "Message",
+    "others": "others",
+    "posts": "Posts",
+    "shop": "Shop",
+    "username": "Username"
+  },
+  "links": {
+    "about": "Join me on my social media journey for daily inspiration, positivity, and fun!",
+    "findMe": "Find me on",
+    "link": {
+      "About1": "Jenny’s Make up",
+      "About2": "Profile",
+      "About3": "Videos",
+      "About4": "Trip to Costa Rica",
+      "About5": "My VSCO"
+    },
+    "name": "Jenny Leslie",
+    "social": {
+      "facebook": "Facebook",
+      "tikTok": "Tik Tok",
+      "twitter": "X",
+      "youtube": "Youtube"
+    },
+    "socialAccType": "Social Account"
+  },
+  "menu": {
+    "celery": "Celery",
+    "cereals": "Cereals",
+    "closed": "Closed",
+    "contact": "Contact",
+    "crustaceans": "Crustaceans",
+    "eggs": "Eggs",
+    "email": "Email",
+    "facebook": "Facebook",
+    "fish": "Fish",
+    "fruits": "Tree nuts",
+    "google": "Google",
+    "instagram": "Instagram",
+    "linkedin": "Linkedin",
+    "lupins": "Lupins",
+    "milk": "Milk",
+    "molluscs": "Shellfish",
+    "monday": "Monday",
+    "mustard": "Mustard",
+    "name": "Name",
+    "name_text": "TastyFood",
+    "open_hours": "Open hours",
+    "peanuts": "Peanuts",
+    "phone": "Phone",
+    "restaurant_desc": "Fresh, flavorful, and nourishing dishes made with locally sourced ingredients",
+    "restaurant_name": "TastyFood",
+    "saturday": "Saturday",
+    "section_1": "Starters",
+    "section_1_product_desc": "Greens combined with toppings and served especially with dressing.",
+    "section_1_product_name": "Salad",
+    "section_2": "Beverages",
+    "section_2_product_desc": "Fresh Squeezed Orange Juice.",
+    "section_2_product_name": "Orange juice",
+    "section_2_product_trans_name": "Orangensaft",
+    "section_3": "Sweet Endings",
+    "section_3_product_desc": "Crispy and Creamy Doughnuts.",
+    "section_3_product_name": "Glazed Yeast-Raised Doughnut",
+    "section_4": "Nourishing",
+    "section_4_product_desc": "Combination of basting and slow roasting yields incredibly tender salmon.",
+    "section_4_product_name": "Roasted Salmon with Walnut",
+    "sesame": "Sesame",
+    "social_network": "Our Social Networks",
+    "soy": "Soy",
+    "sulfur": "Sulfites",
+    "sunday": "Sunday",
+    "thursday": "Thursday",
+    "tikTok": "TikTok",
+    "tuesday": "Tuesday",
+    "twitter": "X",
+    "website": "Website",
+    "wednesday": "Wednesday"
+  },
+  "mp3": {
+    "social": {
+      "spotify": "Spotify"
+    },
+    "songDescription": "The Best Driving Music",
+    "songTitle": "Night Drive",
+    "viewMoreButton": "View More Songs"
+  },
+  "pdf": {
+    "button": "View PDF",
+    "company": "Enterprise Inc.",
+    "description": "Our best year yet! See how we achieved record-breaking success in our annual report",
+    "error": "Failed to load PDF file.",
+    "loading_message": "Loading PDF",
+    "placeholder_text": "Your PDF here",
+    "title": "Annual Report"
+  },
+  "qrb": {
+    "app": {
+      "available": "Availbe at",
+      "base": "Sustainable Eating App",
+      "description": "GreenPlate Fresh Eating is your one-stop shop for tasty recipes and diet plans!",
+      "download": "Download on the",
+      "get": "GET IT ON",
+      "header": "GreenPlate Fresh Eating"
+    },
+    "business": {
+      "about_company_text": "We slow-roast our espresso beans on-site and bake our delicious pastries fresh daily!",
+      "about_title_btn": "Mon Ami Coffee Cafe",
+      "address": "Address",
+      "button": "Order Now",
+      "company": "Try Our Pastries and Coffee!",
+      "description": "We roast our coffee beans and bake our pastries in-house!",
+      "name_text": "Carl Thomas",
+      "share": "Share",
+      "show_on": "Show on Map",
+      "social_network": "Our Social Networks",
+      "subtitle": "Freshly baked happiness every day",
+      "title": "Mon Ami Coffee"
+    },
+    "com_contact": {
+      "contact_email": "Email",
+      "contact_location": "Location",
+      "contact_name": "Name",
+      "contact_phone": "Phone",
+      "contact_website": "Website",
+      "title": "Contact"
+    },
+    "com_facilities": {
+      "title": "Facilities"
+    },
+    "com_opening_hours": {
+      "close": "Close",
+      "monday": "Monday",
+      "open": "Open",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "thursday": "Thursday",
+      "title": "Opening hours",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday"
+    },
+    "coupon": {
+      "company": "Discount Cookware",
+      "offerButton": "Get Discount",
+      "offerDescription": "Get a generous discount on any pots and pans in our online store, for a limited time only!",
+      "salesBadge": "50% OFF"
+    },
+    "email": {
+      "add_contact_btn": "Add to Contact",
+      "contact_name": "Harbor View Realty",
+      "description": "Contact us for property inquiries or rental services. We're here to assist you!",
+      "list_1": "Sales Department",
+      "list_2": "Rental Services",
+      "title": "Harbor View Realty"
+    },
+    "event": {
+      "about_description": "Join us for an all-day conference, discussing all of the most relevant security risks for modern businesses.",
+      "about_title": "About Midwest Cyber Summit",
+      "add_to_calander_btn": "Add to Calendar",
+      "address": "1269 Main St <br>Fargo, ND 58102",
+      "address_show_map_btn": "Show on Map",
+      "address_title": "Address",
+      "contact_name": "Kimberly Masters",
+      "date": "Date",
+      "description": "Learn from the experts how to protect your business from cybersecurity risks!",
+      "end": "End",
+      "end_date": "Saturday, May 9th",
+      "end_time": "5:00 pm",
+      "start": "Start",
+      "start_date": "Saturday, May 9th",
+      "start_time": "9:00 am",
+      "title": "Midwest Cyber Summit",
+      "view_more_btn": "View More"
+    },
+    "facebook": {
+      "button": "Go to our Facebook page",
+      "description": "Learn from social media’s most inspiring influencers! The Influencers & Motivators Facebook group includes helpful tips, tricks of the trade, and a great community!",
+      "like": "Like 3.6K",
+      "title": "Influencers & Motivators"
+    },
+    "images": {
+      "headerDescription": "Book our photography services today to get the best headshots in the region!",
+      "headerTitle": "Headshot Photography",
+      "viewMoreButton": "View Gallery"
+    },
+    "instagram": {
+      "description": "We offer great new fits, jaw-dropping looks, and plenty of camaraderie along the way! linktr.ee/fitfashionfriendship",
+      "follow": "Follow",
+      "followers": "Followers",
+      "following": "Following",
+      "highlight_1": "Friends",
+      "highlight_2": "Fashion",
+      "highlight_3": "New Outfits",
+      "highlight_4": "Fashion Show",
+      "highlight_new": "New",
+      "posts": "Posts",
+      "username": "Username"
+    },
+    "links": {
+      "about": "Follow all of my social media channels for foodies, and join me as I dine around the world!",
+      "link": {
+        "About1": "Carla’s Favorite Recipes",
+        "About2": "My Cooking Recipe",
+        "About3": "Carla’s TikTok Profile",
+        "About4": "Flight Booking App"
+      },
+      "name": "Carla Rasmussen",
+      "social_title": "Find me on"
+    },
+    "menu": {
+      "contact_name": "Carl Rossi",
+      "section_1": "Appetizers",
+      "section_1_product_desc": "Skewers of cherry tomatoes, fresh mozzarella, and basil leaves, drizzled with balsamic reduction.",
+      "section_1_product_name": "Caprese Skewers",
+      "section_2": "Drinks",
+      "section_2_product_desc": "Refreshing iced tea infused with fresh lemon juice and aromatic basil leaves.",
+      "section_2_product_name": "Lemon Basil Iced Tea",
+      "section_3": "Main Courses",
+      "section_3_product_desc": "Tender fish fillets lightly coated in flour and pan-seared, then served with a tangy lemon-butter caper sauce. Accompanied by a side of roasted vegetables.",
+      "section_3_product_name": "Fish Piccata",
+      "section_4": "Dessert",
+      "section_4_product_desc": "Classic Italian dessert with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+      "section_4_product_name": "Tiramisu",
+      "social_title": "Our Social Networks",
+      "subtitle": "Italy’s Best Cuisine!",
+      "title": "Chef’s Place"
+    },
+    "mp3": {
+      "playlist_btn": "Listen Now!",
+      "songDescription": "Kathy Bartlett",
+      "songTitle": "The Daily Grind"
+    },
+    "pdf": {
+      "company": "Best Business Bank, Inc.",
+      "description": "Download your latest statement and take control of your company’s financial future!",
+      "pdf_btn": "View PDF",
+      "title": "Corporate Checking & Savings"
+    },
+    "review": {
+      "leave_review": "Leave a review",
+      "send_review_btn": "Send Rating",
+      "title": "Venice Beach Snacks"
+    },
+    "sms": {
+      "message_1": "Hello! I just scanned the QR code for your restaurant menu. Are you open on weekends?",
+      "message_2": "Hi! Yes, we’re open on Saturdays and Sundays for brunch, lunch, and dinner service!",
+      "message_3": "Fantastic! Do you take reservations?",
+      "message_4": "We certainly do! Please let me know the size of your party, as well as the time and date you’ll be joining us.",
+      "message_5": "Could we get a table for four at 10 am for Sunday brunch?",
+      "message_6": "No problem! I have your reservation confirmed for this Sunday at 10 am. See you then!"
+    },
+    "social": {
+      "account": "Social Account",
+      "description": "I’m Sally — welcome to my social media hub! Click the links below to connect and interact with me on all of my channels!",
+      "subtitle": "Find me on",
+      "title": "Sally Flores"
+    },
+    "vcard": {
+      "add_contact_btn": "Add Contact",
+      "company": "Creative Design Inc.",
+      "location_text": "4387 Main St San Antonio, TX 78212 Show on Map",
+      "name": "James Hall",
+      "profession": "Software Engineer",
+      "show_on_map": "Show on Map",
+      "social_title": "Find me on",
+      "summary": "I am the founder and owner of Hall of Fame Software Development. Contact us to discover our innovative solutions!"
+    },
+    "video": {
+      "company": "Sophia's Studio",
+      "description": "Learn techniques for everything from graphic design to watercolor painting and so much more!",
+      "learn_more": "Learn More",
+      "title": "Art & Design Class",
+      "video_description": "Sophia's Studio — a space where creativity meets expression! Our courses are suitable for all ages and teach a variety of artistic methods."
+    },
+    "whatsapp": {
+      "today": "Today"
+    },
+    "wifi": {
+      "closeButton": "Close",
+      "connectButton": "Connect",
+      "headerText": "Join the \"Main Office\" \n WiFi network?"
+    }
+  },
+  "qrc_io": {
+    "app": {
+      "available": "Availbe at",
+      "base": "Mental Health Support App",
+      "description": "Find peace and mental clarity with Mindful Comfort. Access mindfulness exercises, guided meditations, and much more.",
+      "download": "Download on the",
+      "get": "Get it on",
+      "header": "Mindful Comfort"
+    },
+    "business": {
+      "about_company": "About the Company",
+      "about_company_text": "Whether it’s Christmas, a birthday party, or any other holiday, every child wants the latest and greatest toys. Find the perfect gift for kids of all ages with Holiday Toy Shop!",
+      "about_title_btn": "Holiday Toy Shop",
+      "actions": "Actions",
+      "address": "Address",
+      "button": "View Our Inventory",
+      "cancel": "Cancel",
+      "company": "Find New and Used Toys!",
+      "description": "Discover the perfect gifts for every child and every occasion!",
+      "name_text": "Lori Walters",
+      "share": "Share",
+      "show_on": "Show on Map",
+      "social_network": "Our Social Networks",
+      "subtitle": "Freshly baked happiness every day",
+      "title": "Holiday Toy Shop"
+    },
+    "com_contact": {
+      "contact_email": "Email",
+      "contact_location": "Location",
+      "contact_name": "Name",
+      "contact_phone": "Phone",
+      "contact_website": "Website",
+      "title": "Contact"
+    },
+    "com_facilities": {
+      "title": "Facilities"
+    },
+    "com_opening_hours": {
+      "monday": "Monday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "thursday": "Thursday",
+      "title": "Opening hours",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday"
+    },
+    "coupon": {
+      "company": "Find our best discounts!",
+      "offerButton": "Get Coupon",
+      "offerDescription": "Available on all products in our online store, for a limited time only!",
+      "salesBadge": "25% OFF"
+    },
+    "defaultPage": {
+      "contact_us": "Contact Us",
+      "create_qr_btn": "Create QR Code",
+      "footer_text_1": "© QR Code.io All rights reserved",
+      "footer_text_2": "‘QR Code’ is a trademark of DENSO WAVE INCORPORATED",
+      "image_title": "Create, Manage and Track your QR Codes",
+      "para_1": "qr-code.click is owned by QR code.io. It is used to link dynamic QR codes to any website or landing page. Businesses and individuals use QR Code.io and qr-code.click to gather feedback, improve their products or services, increase customer engagement with images or videos, or even promote their business via events and coupons",
+      "para_2": "In less than 5 minutes, build your customizable and fully trackable QR codes. Unlock advanced insights, implement your branding, and make updates to your QR codes at any time.",
+      "privacy_text": "Privacy Policy",
+      "qr_card_text": "A QR Code for Every Need",
+      "report_abuse": "Report Abuse",
+      "terms_text": "Terms & Conditions",
+      "title": "What is qr-code.click?"
+    },
+    "email": {
+      "add_contact_btn": "Add to Contact",
+      "contact_name": "Premium Law Firm",
+      "description": "Contact us for legal inquiries or support. We're here to assist you!",
+      "list_1": "Corporate Law Department",
+      "list_2": "Litigation Department",
+      "title": "Premium Law Firm"
+    },
+    "event": {
+      "about_description": "Join the region’s leading human resources conference! We’ll discuss everything from recruiting and onboarding to severance packages and more.",
+      "about_title": "About New York HR Roundtable",
+      "add_to_calander_btn": "Add to Calendar",
+      "address": "2323 Main Street <br>Ithaca, NY 14850",
+      "address_show_map_btn": "Show on Map",
+      "address_title": "Address",
+      "contact_name": "Corina McCoy",
+      "date": "Date",
+      "description": "An open forum for HR professionals from different departments to share challenges and brainstorm solutions.",
+      "end": "End",
+      "end_date": "Friday, February 8th",
+      "end_time": "12:00 pm",
+      "start": "Start",
+      "start_date": "Friday, February 8th",
+      "start_time": "9:00 am",
+      "title": "New York HR Roundtable",
+      "view_more_btn": "View More"
+    },
+    "facebook": {
+      "button": "Go to our Facebook page",
+      "description": "Interested in learning more about artificial intelligence, machine learning, and blockchain? The Technology Hub Facebook Group is an excellent resource whether you’re an expert or just starting out!",
+      "like": "Like 665K",
+      "title": "Technology Hub"
+    },
+    "images": {
+      "headerDescription": "Discover the world through my lens. Every stop is a new adventure!",
+      "headerTitle": "Travel Photography",
+      "viewMoreButton": "View More"
+    },
+    "instagram": {
+      "and": "and",
+      "contact": "Contact",
+      "description": "We’re the leading graphic design studio in the nation, with services suitable for businesses of all shapes and sizes.",
+      "follow": "Follow",
+      "followed": "Followed by",
+      "followers": "Followers",
+      "following": "Following",
+      "message": "Message",
+      "others": "others",
+      "platform": "Product/Service",
+      "posts": "Posts",
+      "subscribe": "Subscribe",
+      "username": "Username"
+    },
+    "links": {
+      "about": "Connect with me on social media to get my latest fitness advice and fun content!",
+      "link": {
+        "About1": "Julia’s Fitness Advice",
+        "About2": "New Fitness Plan",
+        "About3": "Julia’s TikTok Profile",
+        "About4": "Fitness Studio",
+        "About5": "FITON"
+      },
+      "name": "Julia Anderson",
+      "social_title": "Find me on"
+    },
+    "menu": {
+      "contact_name": "Alexandre Laurent",
+      "section_1": "Starters",
+      "section_1_product_desc": "Fresh avocado slices and succulent shrimp on a bed of mixed greens, drizzled with a light lemon vinaigrette.",
+      "section_1_product_name": "Avocado and Shrimp Salad",
+      "section_2": "Beverages",
+      "section_2_product_desc": "A refreshing blend of sparkling water, freshly squeezed orange and lemon juice, with a hint of mint.",
+      "section_2_product_name": "Sparkling Citrus Cooler",
+      "section_3": "Main Dishes",
+      "section_3_product_desc": "Oven-baked salmon fillet with a crispy herb crust, served with garlic mashed potatoes and steamed asparagus.",
+      "section_3_product_name": "Herb-Crusted Salmon",
+      "section_4": "Dessert",
+      "section_4_product_desc": "Warm, gooey chocolate cake with a molten center, served with a scoop of vanilla ice cream.",
+      "section_4_product_name": "Chocolate Lava Cake",
+      "social_title": "Our Social Networks",
+      "subtitle": "Authentic French food and beverages",
+      "title": "Alexandre’s Kitchen"
+    },
+    "mp3": {
+      "social_network_title": "FInd me on",
+      "songDescription": "Sammy Palmer",
+      "songTitle": "Cruising Beats",
+      "viewMoreButton": "New Album"
+    },
+    "pdf": {
+      "company": "North American Accountants, Inc.",
+      "description": "Learn about how we can help with all your business accounting needs.",
+      "pdf_btn": "View PDF",
+      "placeholder_text": "Your PDF here",
+      "title": "Bookkeeping Experts"
+    },
+    "review": {
+      "leave_review": "Leave a review",
+      "send_review_btn": "Send Review",
+      "title": "Find great images for free with BestStockPhotos.com!"
+    },
+    "sms": {
+      "delivered": "Delivered",
+      "message_1": "Hi! I scanned your QR code and was hoping to get more info on your company.",
+      "message_2": "Of course! What would you like to know?",
+      "message_3": "Do you offer private lessons, or do you only provide group sessions?",
+      "message_4": "It would cost a bit more, but we would be happy to provide a private lesson!",
+      "message_5": "Excellent! I’m much more comfortable in one-on-one settings.",
+      "message_6": "No problem at all! I’ll reach out shortly to schedule your appointment.",
+      "message_7": "Thank you!"
+    },
+    "social": {
+      "account": "Social Account",
+      "description": "Hi! I’m Sarah Ann Peters. Welcome to my social media hub! The links below will connect you with my channels on every popular platform.",
+      "subtitle": "Find me on",
+      "title": "Sarah Ann Peters"
+    },
+    "vcard": {
+      "add_account": "Add Contact",
+      "company": "Creative Design Inc.",
+      "company_name": "Lead Graphic Designer",
+      "location_text": "612 Main Street New Orleans, LA 70115",
+      "name": "David Elson",
+      "profession": "Lead Graphic Designer",
+      "social_network_title": "Find me on",
+      "summary": "This is David, designer at Creative Design Inc. We offer outstanding graphic design services at reasonable rates."
+    },
+    "video": {
+      "company": "Sandra’s Health and Wellness",
+      "description": "Learn how to cook fresh, healthy meals that contribute to your overall wellbeing! We offer easy step-by-step instructions.",
+      "title": "Online Cooking Classes",
+      "video_description": "Learn how to make heart-healthy recipes from scratch!",
+      "view_more": "View more"
+    },
+    "whatsapp": {
+      "message": "Message"
+    },
+    "wifi": {
+      "closeButton": "Close",
+      "connectButton": "Connect",
+      "headerText": "Join the \"Hospital\" \n Wi-fi network?"
+    }
+  },
+  "qrgen_ai": {
+    "app": {
+      "available": "Availbe at",
+      "base": "Fitness Tracking App",
+      "description": "Stay active and achieve your fitness milestones with the Vitality Health & Fitness app.",
+      "download": "Download on the",
+      "get": "GET IT ON",
+      "header": "Vitality Health & Fitness"
+    },
+    "business": {
+      "about_company": "About the Company",
+      "about_company_text": "Handcrafted jewelry offers a unique and personal way to elevate your everyday style. Explore our incredible selection and find your next piece today!",
+      "about_title_btn": "Northwest Gemstone Gallery",
+      "button": "View Our Inventory",
+      "company": "Explore Our Fine Jewelry!",
+      "description": "Discover the perfect gifts for every child and every occasion!",
+      "name_text": "Frances Swann",
+      "share": "Share",
+      "show_on": "Show on Map",
+      "social_network": "Our Social Networks",
+      "subtitle": "Shop our unique designs and find your next piece of everyday elegance!",
+      "title": "Northwest Gemstone Gallery"
+    },
+    "com_contact": {
+      "contact_email": "Email",
+      "contact_location": "Location",
+      "contact_name": "Name",
+      "contact_phone": "Phone",
+      "contact_website": "Website",
+      "title": "Contact"
+    },
+    "com_facilities": {
+      "title": "Facilities"
+    },
+    "com_opening_hours": {
+      "monday": "Monday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "thursday": "Thursday",
+      "title": "Opening hours",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday"
+    },
+    "coupon": {
+      "company": "The Four Seasons",
+      "offerButton": "CLAIM COUPON",
+      "offerDescription": "This discount applies to all products in our online store — act now before the sale ends!",
+      "salesBadge": "20% OFF"
+    },
+    "defaultPage": {
+      "footer_text_1": "© QR Generator.ai All rights reserved",
+      "footer_text_2": "‘QR Code’ is a trademark of DENSO WAVE INCORPORATED",
+      "para_1": "qr.pro is owned by QR Generator.ai. It is used to link dynamic QR codes to any website or landing page. Businesses and individuals use QR Generator.ai and qr.pro to gather feedback, improve their products or services, increase customer engagement with images or videos, or even promote their business via events and coupons",
+      "title": "What is qr.pro?"
+    },
+    "email": {
+      "add_contact_btn": "Add to Contact",
+      "contact_name": "Fox Coder Inc.",
+      "description": "Contact us for business inquiries or get in touch with our support team. We're here to help!",
+      "list_1": "Contact sales",
+      "list_2": "Ask us any questions",
+      "title": "Fox Coder"
+    },
+    "event": {
+      "about_description": "Join us for a two-day wedding industry expo! We’ll discuss decor, venues, clothing, and so much more.",
+      "about_title": "About Bells and Brides",
+      "add_to_calander_btn": "Add to Calendar",
+      "address": "3274 1st Ave N <br>Annapolis Junction, MD 20701",
+      "address_show_map_btn": "Show on Map",
+      "address_title": "Address",
+      "contact_name": "Corina McCoy",
+      "date": "Date",
+      "description": "A bohemian wedding expo with a focus on natural beauty, wildflowers, and outdoor festivities.",
+      "end": "End",
+      "end_date": "Monday, June 7th",
+      "end_time": "01:00 am",
+      "start": "Start",
+      "start_date": "Monday, June 6th",
+      "start_time": "03:00 pm",
+      "title": "Bells and Brides",
+      "view_more_btn": "View More"
+    },
+    "facebook": {
+      "button": "Go to our Facebook page",
+      "description": "Want to get great ideas for your next outfit? The Fashion Inspiration Facebook Group has plenty of tips and tricks to help you find hot looks for every occasion!",
+      "like": "Like 13.8K",
+      "title": "Fashion Inspiration"
+    },
+    "images": {
+      "headerDescription": "Browse our gallery of nature photos and order prints of any image!",
+      "headerTitle": "Nature’s Canvas",
+      "viewMoreButton": "View All"
+    },
+    "instagram": {
+      "contact": "Contact",
+      "country_1": "Japan",
+      "country_2": "Italy",
+      "country_3": "Greece",
+      "country_4": "Guatemala",
+      "country_5": "USA",
+      "description": "We provide the best travel photos available! Contact us to order prints, or visit our online store to view our entire inventory.",
+      "follow": "Follow",
+      "followers": "Followers",
+      "following": "Following",
+      "message": "Message",
+      "posts": "Posts",
+      "username": "Username"
+    },
+    "links": {
+      "about": "Follow all of my social media channels for travel tips and inspirational stories!",
+      "link": {
+        "About1": "Travel Stories on My Blog",
+        "About2": "Travel Tips on My TikTok",
+        "About3": "Vacation in the Maldives",
+        "About4": "Flight Booking App"
+      },
+      "name": "Stephanie Nichols",
+      "social_title": "Find me on"
+    },
+    "menu": {
+      "contact_name": "Stephanie Smith.",
+      "section_1": "Appetizers",
+      "section_1_product_desc": "Slices of grilled eggplant topped with a fresh tomato and basil mixture, drizzled with balsamic glaze.",
+      "section_1_product_name": "Grilled Eggplant Bruschetta",
+      "section_2": "Beverages",
+      "section_2_product_desc": "A creamy blend of ripe mango, pineapple, and coconut milk, served chilled.",
+      "section_2_product_name": "Tropical Mango Smoothie",
+      "section_3": "Main Dishes",
+      "section_3_product_desc": "Corn tortillas filled with shredded chicken and cheese, baked in a spicy red sauce, and topped with sour cream and cilantro.",
+      "section_3_product_name": "Spicy Chicken Enchiladas",
+      "section_4": "Dessert",
+      "section_4_product_desc": "A classic creamy caramel flan with a rich, smooth texture and a caramel sauce.",
+      "section_4_product_name": "Caramel Flan",
+      "social_title": "Our Social Networks",
+      "subtitle": "New American Food and Beverage",
+      "title": "The Cuisine"
+    },
+    "mp3": {
+      "playlist_btn": "Access Playlist",
+      "songDescription": "Jamie Abernathy",
+      "songTitle": "Bright Lights and Lullabies"
+    },
+    "pdf": {
+      "company": "Software Experts, Inc.",
+      "description": "We produce many popular apps. Learn more about our latest offerings today!",
+      "pdf_btn": "View PDF",
+      "title": "Try our latest app!"
+    },
+    "review": {
+      "leave_review": "Leave a review",
+      "send_review_btn": "Send Rating",
+      "title": "Downtown Trolley Tours"
+    },
+    "sms": {
+      "message_1": "Hey there! I just scanned your QR code. What do I need to do to enter your contest?",
+      "message_2": "Hi! We’re so glad you want to participate! First, we simply need your full name.",
+      "message_3": "My name is Matthew Thompson.",
+      "message_4": "Perfect Matthew! Next, we need to know your full address, including the street, city, state, and ZIP code. Can you provide that information?",
+      "message_5": "Of course! I’m at 123 Main Street, Seattle, WA 98107.",
+      "message_6": "You are now entered in our sweepstakes. We will reach out if you win any prizes! Good luck!"
+    },
+    "social": {
+      "account": "Social Account",
+      "description": "Hello! I’m Rachel Louise Mendes. Let’s connect on social media using the links below! I can’t wait to share my latest content with you.",
+      "subtitle": "Find me on",
+      "title": "Rachel Louise Mendes"
+    },
+    "vcard": {
+      "add_contact_btn": "Add Contact",
+      "company": "Creative Design Inc.",
+      "location_text": "82 Liberté Street, 75012 Paris, France",
+      "name": "Kyle Thorsen",
+      "profession": "Senior Web Developer",
+      "show_on_map": "Show on Map",
+      "social_title": "Find me on",
+      "summary": "As a senior web developer at WebCrafters Studio, I am proud to provide the best website development service in Europe!"
+    },
+    "video": {
+      "company": "Kyle’s Rock Band Lessons",
+      "description": "Want to be part of a rock band? Join our next jam session and rock out with likeminded musicians!",
+      "title": "Open Jam Sessions",
+      "video_description": "Kyle’s Rock Band Lessons offers the opportunity for beginners and advanced musicians alike to play music. Watch the video above to see what we do in a session.",
+      "view_more": "View More"
+    },
+    "whatsapp": {
+      "chat_name": "Chat"
+    },
+    "wifi": {
+      "closeButton": "Close",
+      "connectButton": "Connect",
+      "headerText": "Join the \"Hotel Bar\" \n WiFi network?"
+    }
+  },
+  "review": {
+    "comment_placeholder": "Add a comment (optional)",
+    "email_error": "Please enter a valid email address",
+    "email_placeholder": "Email address",
+    "leave_review": "Leave a review",
+    "mobile_number_error_1": "Invalid number",
+    "mobile_number_error_2": "Invalid country code",
+    "mobile_number_error_3": "Too short",
+    "mobile_number_error_4": "Too long",
+    "mobile_number_error_5": "Invalid number",
+    "phone_no_placeholder": "Phone Number",
+    "rating_required": "Rating is required",
+    "required": "Required",
+    "review_1_description": "Thank you for choosing us! Please leave a review and share your experience by clicking on the button below.",
+    "review_2_description": "Thank you for choosing us! Please leave a review and share your experience by clicking on one of the platforms below.",
+    "review_receive_title": "Review Received",
+    "search": "Search",
+    "send_review_btn": "Send Rating",
+    "thank_you": "Thank You",
+    "thank_you_description": "We have received your review. Thank you for taking the time to share your opinion!",
+    "title": "Los Angeles Bus Tour",
+    "visit_website": "Visit our website"
+  },
+  "sms": {
+    "default_message": "Type a message",
+    "message_1st": "Hey, just scanned the QR code at your new cafe. Are you open on Sundays?",
+    "message_2nd": "Hi there! Yes, we are open on Sundays from 8 AM to 8 PM. Looking forward to serving you. 😊",
+    "message_3rd": "Awesome! Do I need to book a table for brunch?",
+    "message_4th": "For weekends, booking is recommended but not necessary. You can book a table by replying with your preferred time and the number of people.",
+    "message_5th": "Great! We will book a table for two at 10 AM this Sunday, please",
+    "message_6th": "Your table for two at 10 AM this Sunday is confirmed. We're excited to welcome you to Cafe Delight! 🎉"
+  },
+  "social": {
+    "account": "Social Account",
+    "description": "Welcome to my digital hub, where I share insights, creations, and more. Dive in to stay updated and connected with me across the web.",
+    "subtitle": "Find me on"
+  },
+  "vcard": {
+    "account_manager": "Account Manager",
+    "add_account": "Add Contact",
+    "company_name": "Company’s Name",
+    "email": "Email",
+    "facebook": "Facebook",
+    "find_me": "Find me on",
+    "google": "Google",
+    "instagram": "Instagram",
+    "linkedin": "Linkedin",
+    "location": "Location",
+    "location_text": "345 Park Avenue, New York, 10154, NY, United States",
+    "name": "John Carlson",
+    "phone": "Phone",
+    "profession": "Account Manager",
+    "show_on_map": "Show on Map",
+    "social_account": "Social Account",
+    "summary": " As an account manager, I thrive on building lasting relationships and helping clients to succeed. Let's connect and grow together!",
+    "website": "Website",
+    "website_title": "My Website"
+  },
+  "video": {
+    "company": "Emily’s Kitchen",
+    "description": "Watch our step-by-step cooking tutorial video and learn how to make a delicious meal in no time!",
+    "title": "Cooking Tutorial",
+    "video_description": "From the preparation to the plate, learn to cook my favourite recipes like a pro",
+    "view_more": "View more"
+  },
+  "whatsapp": {
+    "message": "Message",
+    "text": "Type a message."
+  },
+  "wifi": {
+    "closeButton": "Close",
+    "connectButton": "Connect",
+    "headerText": "Join the \"Blue Hotel\" \n Wi-fi network?"
+  }
+}
