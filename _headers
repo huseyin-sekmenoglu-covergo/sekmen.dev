@@ -1,5 +1,4 @@
 https://sekmen.dev/*
-  X-Robots-Tag: noindex
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
