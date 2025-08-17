@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Contact Submissions</title>
+  <style>
+    body { font-family: sans-serif; margin: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; }
+    th { background: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <h1>📬 Contact Submissions</h1>
+  <table id="submissions-table">
+    <thead>
+      <tr><th>ID</th><th>Name</th><th>Email</th><th>Message</th><th>Date</th></tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+  async function loadSubmissions() {
+    const res = await fetch("/api/list");
+    const data = await res.json();
+
+    const tbody = document.querySelector("#submissions-table tbody");
+    tbody.innerHTML = "";
+    data.forEach(row => {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td>${row.id}</td>
+        <td>${row.name}</td>
+        <td>${row.email}</td>
+        <td>${row.company}</td>
+        <td>${row.phone}</td>
+        <td>${row.message}</td>
+        <td>${row.created_at}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+  }
+
+  loadSubmissions();
+  </script>
+</body>
+</html>
