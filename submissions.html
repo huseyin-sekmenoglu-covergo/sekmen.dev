@@ -58,7 +58,6 @@
 
     const res = await fetch("/api/delete?id=" + id, { method: "DELETE" });
     if (res.ok) {
-      alert("Deleted!");
       loadSubmissions();
     } else {
       alert("Error deleting entry.");
