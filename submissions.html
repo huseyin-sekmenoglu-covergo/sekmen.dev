@@ -16,7 +16,16 @@
   <h1>📬 Contact Submissions</h1>
   <table id="submissions-table">
     <thead>
-      <tr><th>ID</th><th>Name</th><th>Email</th><th>Message</th><th>Date</th></tr>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Company</th>
+        <th>Phone</th>
+        <th>Message</th>
+        <th>Date</th>
+        <th></th>
+      </tr>
     </thead>
     <tbody></tbody>
   </table>
@@ -38,9 +47,22 @@
         <td>${row.phone}</td>
         <td>${row.message}</td>
         <td>${row.created_at}</td>
+        <td><button onclick="deleteEntry(${row.id})">Delete</button></td>
       `;
       tbody.appendChild(tr);
     });
+  }
+
+  async function deleteEntry(id) {
+    if (!confirm("Delete this entry?")) return;
+
+    const res = await fetch("/api/delete?id=" + id, { method: "DELETE" });
+    if (res.ok) {
+      alert("Deleted!");
+      loadSubmissions();
+    } else {
+      alert("Error deleting entry.");
+    }
   }
 
   loadSubmissions();
