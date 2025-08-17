@@ -1,0 +1,4 @@
+[[d1_databases]]
+binding = "DB" # must match env.DB
+database_name = "mydb"
+database_id = "13679f88-e53e-4a16-b784-bdeae54412f1"
