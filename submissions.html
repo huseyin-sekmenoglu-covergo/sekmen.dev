@@ -31,40 +31,47 @@
   </table>
 
   <script>
-  async function loadSubmissions() {
-    const res = await fetch("/api/list");
-    const data = await res.json();
-
-    const tbody = document.querySelector("#submissions-table tbody");
-    tbody.innerHTML = "";
-    data.forEach(row => {
-      const tr = document.createElement("tr");
-      tr.innerHTML = `
-        <td>${row.id}</td>
-        <td>${row.name}</td>
-        <td>${row.email}</td>
-        <td>${row.company}</td>
-        <td>${row.phone}</td>
-        <td>${row.message}</td>
-        <td>${row.created_at}</td>
-        <td><button onclick="deleteEntry(${row.id})">Delete</button></td>
-      `;
-      tbody.appendChild(tr);
-    });
-  }
-
-  async function deleteEntry(id) {
-    if (!confirm("Delete this entry?")) return;
-
-    const res = await fetch("/api/delete?id=" + id, { method: "DELETE" });
-    if (res.ok) {
+    const params = new URLSearchParams(window.location.search);
+    const TOKEN = params.get("token");
+    if (TOKEN) {
       loadSubmissions();
     } else {
-      alert("Error deleting entry.");
+      document.body.innerHTML = "<h1>Unauthorized</h1>";
+      alert("Unauthorized.");
     }
-  }
 
-  loadSubmissions();
+    async function loadSubmissions() {
+      const res = await fetch(`/api/list?token=${TOKEN}`);
+      const data = await res.json();
+
+      const tbody = document.querySelector("#submissions-table tbody");
+      tbody.innerHTML = "";
+      data.forEach(row => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${row.id}</td>
+          <td>${row.name}</td>
+          <td>${row.email}</td>
+          <td>${row.company}</td>
+          <td>${row.phone}</td>
+          <td>${row.message}</td>
+          <td>${row.created_at}</td>
+          <td><button onclick="deleteEntry(${row.id})">Delete</button></td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    async function deleteEntry(id) {
+      if (!confirm("Delete this entry?")) return;
+
+      const res = await fetch(`/api/delete?id=${id}&token=${TOKEN}`, { method: "DELETE" });
+      if (res.ok) {
+        loadSubmissions();
+      } else {
+        alert("Error deleting entry.");
+      }
+    }
   </script>
 </body>
 </html>

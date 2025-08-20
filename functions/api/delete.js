@@ -1,6 +1,12 @@
-export async function onRequestDelete({ request, env }) {
+export async function onRequestDelete(context) {
+  const { request, env } = context;
   const url = new URL(request.url);
   const id = url.searchParams.get("id");
+  const token = url.searchParams.get("token");
+
+  if (token !== env.ADMIN_TOKEN) {
+    return new Response("Unauthorized", { status: 401 });
+  }
 
   if (!id) {
     return new Response("Missing ID", { status: 400 });
